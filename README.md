@@ -87,4 +87,4 @@ Official Course Page → https://www.icertglobal.com/new-technologies/blockchain
 
 iCert Global → https://www.icertglobal.com
 
-Blog:
+Blog: https://www.icertglobal.com/blog/blockchain-certification-training-course
