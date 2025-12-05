@@ -1,134 +1,170 @@
-# Blockchain Record: Six Sigma Yellow Belt (SSYB) Certification Training Program
-# 🧱 Block 001 — Program Identity
+💬 Six Sigma Yellow Belt Interview Questions & Answers
 
-Title: Six Sigma Yellow Belt (SSYB) Certification Training Program
-Mode: Classroom Training & Live Online Courses
-Hash: SSYB-INIT-001
-Data:
-Stop being a spectator. Learn the fundamentals of Six Sigma and become a valuable contributor to improvement projects.
+Beginner + Intermediate + Advanced (30 Questions Total)
 
-# 🧱 Block 002 — Ratings & Community Proof
+# 🟡 Beginner Level – 10 Questions
+1. What is Six Sigma?
 
-Hash: SSYB-RATE-002
-Previous Hash: SSYB-INIT-001
-Data:
+Answer:
+Six Sigma is a data-driven methodology used to reduce defects, improve quality, and make processes more efficient.
 
-⭐ 30,884+ Learners
+2. What does a Yellow Belt do?
 
-⭐ Google Rating: 4.9/5
+Answer:
+A Yellow Belt supports improvement projects, collects data, performs basic analysis, and assists Green/Black Belts.
 
-⭐ Facebook Rating: 4.7/5
+3. What is DMAIC?
 
-⭐ SwitchUp Rating: 4.9/5
-Validation: Public social proof from learner community.
+Answer:
+DMAIC stands for Define, Measure, Analyze, Improve, Control — a structured method used to solve process problems.
 
-# 🧱 Block 003 — Certification Promise
+4. What is a Process?
 
-Hash: SSYB-PASS-003
-Previous Hash: SSYB-RATE-002
-Data:
-Pass on Your First Attempt
-Supported by a verified learning method designed for professionals beginning their process-improvement journey.
+Answer:
+A process is a set of steps that convert inputs into outputs to deliver a product or service.
 
-# 🧱 Block 004 — End-to-End Support
+5. What is Variation?
 
-Hash: SSYB-SUPPORT-004
-Previous Hash: SSYB-PASS-003
-Data:
-Full assistance covering:
+Answer:
+Variation refers to differences in process results. Six Sigma aims to reduce variation for consistent outcomes.
 
-Enrollment
+6. What is a Defect?
 
-Exam readiness
+Answer:
+A defect is any result that fails to meet customer requirements or expectations.
 
-Certification tracking
+7. What is a SIPOC Diagram?
 
-Continuous learning support
+Answer:
+SIPOC stands for Supplier, Input, Process, Output, Customer — a high-level tool to understand process flow.
 
-# 🧱 Block 005 — Practical Skills (DMAIC)
+8. What are the 7 Wastes in Lean?
 
-Hash: SSYB-DMAIC-005
-Previous Hash: SSYB-SUPPORT-004
-Data:
-Training delivered by certified Six Sigma practitioners who regularly lead real-world improvements and reduce inefficiencies.
+Answer:
+Transport, Inventory, Motion, Waiting, Overproduction, Overprocessing, Defects.
 
-# 🧱 Block 006 — Program Overview
+9. What is a Fishbone Diagram?
 
-Hash: SSYB-OVERVIEW-006
-Previous Hash: SSYB-DMAIC-005
-Data:
-The Six Sigma Yellow Belt program builds strong fundamentals in:
+Answer:
+A cause-and-effect tool used to identify root causes of a problem.
 
-Process improvement
+10. What is a Control Chart?
 
-Quality management
+Answer:
+A chart used to monitor process stability over time using upper and lower control limits.
 
-Defect reduction
+# 🔵 Intermediate Level – 10 Questions
+11. What is Voice of Customer (VOC)?
 
-Waste elimination
+Answer:
+VOC represents customer needs, expectations, and preferences collected through surveys, feedback, and interviews.
 
-Suited for professionals in IT, manufacturing, healthcare, supply chain, and services.
+12. Difference between Defect and Defective?
 
-# 🧱 Block 007 — Learning Outcomes
+Answer:
 
-Hash: SSYB-LEARN-007
-Previous Hash: SSYB-OVERVIEW-006
-Data:
+Defect: A single flaw.
 
-Six Sigma & Lean basics
+Defective: An item with one or more defects that fails acceptance criteria.
 
-DMAIC methodology
+13. What is DPMO?
 
-Process mapping + SIPOC
+Answer:
+Defects Per Million Opportunities — a metric that measures process performance.
 
-Data collection & basic statistics
+14. Explain Pareto Principle.
 
-Root cause analysis (Pareto, Fishbone)
+Answer:
+80% of problems arise from 20% of causes. It helps prioritize improvement areas.
 
-Waste identification (TIMWOOD)
+15. What is FMEA?
 
-Control charts
+Answer:
+Failure Modes and Effects Analysis — a tool to identify risks, evaluate impact, and prioritize mitigation.
 
-Quality metrics & continuous improvement mindset
+16. Difference between Lean and Six Sigma?
 
-# 🧱 Block 008 — Why Choose SSYB
+Answer:
 
-Hash: SSYB-WHY-008
-Previous Hash: SSYB-LEARN-007
-Data:
+Lean: Removes waste.
 
-Strong foundation in process improvement
+Six Sigma: Reduces variation.
+Together they form Lean Six Sigma.
 
-Globally recognized Six Sigma tools
+17. What is Measurement System Analysis (MSA)?
 
-Adds strong value to your resume
+Answer:
+A method to evaluate if the measurement system is accurate, precise, and reliable.
 
-Helps improve workflows & reduce waste
+18. What is a Baseline?
 
-Perfect for beginners wanting to contribute to quality improvement
+Answer:
+The initial performance level of a process before improvements.
 
-# 🧱 Block 009 — Career Benefits
+19. What is Process Capability (Cp/Cpk)?
 
-Hash: SSYB-CAREER-009
-Previous Hash: SSYB-WHY-008
-Data:
+Answer:
+Statistical measures showing how well a process meets customer specifications.
 
-Boost your value in improvement projects
+20. What is a Kaizen Event?
 
-Improve outcomes & deliver better results
+Answer:
+A short, focused improvement workshop aimed at making quick, practical changes.
 
-Reduce defects, costs, and delays
+# 🔴 Advanced Level – 10 Questions
+21. What is Hypothesis Testing in Six Sigma?
 
-Increase efficiency, quality & customer satisfaction
+Answer:
+A statistical method used to check whether observed differences are due to chance or actual process changes.
 
-Prepares you for Green Belt & Black Belt
+22. What is Root Cause vs. Symptom?
 
-# 🧱 Block 010 — External References
+Answer:
 
-Hash: SSYB-LINKS-010
-Previous Hash: SSYB-CAREER-009
-Data:
+Symptom: The visible problem.
 
-SSYB Official Course Page → Six Sigma Yellow Belt Training – iCert Global
+Root Cause: The underlying reason the problem occurs.
 
-iCert Global → https://www.icertglobal.com
+23. What is Regression Analysis?
+
+Answer:
+A statistical technique used to understand relationships between variables and predict outcomes.
+
+24. What is a Control Plan?
+
+Answer:
+A documented plan that outlines how process performance will be monitored and controlled after improvements.
+
+25. What is Design of Experiments (DOE)?
+
+Answer:
+A structured method to test multiple factors simultaneously to identify the best combination for performance.
+
+26. What is a p-value?
+
+Answer:
+A probability value that indicates whether results are statistically significant.
+Lower p-value (<0.05) = significant difference.
+
+27. What is Cost of Poor Quality (COPQ)?
+
+Answer:
+The total cost incurred due to defects, rework, scrap, delays, and customer dissatisfaction.
+
+28. What are Control Limits vs. Specification Limits?
+
+Answer:
+
+Control Limits: Determined by the process; used in control charts.
+
+Specification Limits: Determined by customer requirements.
+
+29. What is a Project Charter?
+
+Answer:
+A document defining the project purpose, scope, goals, timeline, and team roles.
+
+30. What is Normal Distribution?
+
+Answer:
+A bell-shaped statistical distribution where most values cluster around the mean.
