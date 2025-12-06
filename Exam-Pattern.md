@@ -70,4 +70,5 @@ Retake waiting periods depend on the provider (usually 7–14 days)
 🔗 Helpful Links
 
 Blockchain Certification Page → https://www.icertglobal.com/new-technologies/blockchain
-iCert Global Homepage → https://www.icertglobal.com
+
+iCert Global → https://www.icertglobal.com
